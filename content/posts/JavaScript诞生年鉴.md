@@ -8,39 +8,39 @@ draft: false
 
 - 1995 年
 
-        布兰登·艾奇（Brendan Eich）加入网景公司，临危受命，用了十天时间为网景公司浏览器开发了 JavaScript 功能
+布兰登·艾奇（Brendan Eich）加入网景公司，临危受命，用了十天时间为网景公司浏览器开发了 JavaScript 功能
 
 - 1996 年 8 月
 
-        微软发布 IE3，支持 JScript
+微软发布 IE3，支持 JScript
 
 - 1996 年 11 月
 
-        网景向 ECMA 提交语言标准，由于版权问题，JS 语言不能叫 JavaScript，叫 ECMAScript
+网景向 ECMA 提交语言标准，由于版权问题，JS 语言不能叫 JavaScript，叫 ECMAScript
 
 - 1997 年
 
-        第一版 ECMAScript 发布
+第一版 ECMAScript 发布
 
 - 1998 年
 
-        网景被收购，同年网景将浏览器开源（Firefox）
+网景被收购，同年网景将浏览器开源（Firefox）
 
 - 1999 年
 
-        第三版 ECMAScript 发布，这个版本目前使用最广泛
+第三版 ECMAScript 发布，这个版本目前使用最广泛
 
 - 2001 年
 
-        IE 绑定 Windows XP 一起发布
+IE 绑定 Windows XP 一起发布
 
 - 2004 年
 
-        IE 全球市场占有率 80%，IE 却不兼容 W3C 标准，特别是 CSS，给了 Firefox 和 Chrome 机会
+IE 全球市场占有率 80%，IE 却不兼容 W3C 标准，特别是 CSS，给了 Firefox 和 Chrome 机会
 
 - 2004 年愚人节
 
-        谷歌发布 Gmail 在线网页，人们发现网页也可以打开工具，不用下载安装应用，眼前一亮
+谷歌发布 Gmail 在线网页，人们发现网页也可以打开工具，不用下载安装应用，眼前一亮
 
 - 2005 年
 
@@ -56,7 +56,7 @@ draft: false
 
 - 2008 年
 
-        Chrome 发布，迅速拿下 1%的市场份额，Chrom 的 JS 引起叫 V8，快如闪电
+Chrome 发布，迅速拿下 1%的市场份额，Chrom 的 JS 引起叫 V8，快如闪电
 
 - 2009 年
 
@@ -82,7 +82,7 @@ draft: false
 
 - 2015 年
 
-        第六版 ECMAScript 发布，新浏览器都支持，之后每年出一版，版本以年号命名
+第六版 ECMAScript 发布，新浏览器都支持，之后每年出一版，版本以年号命名
 
 - 2016 年
 
